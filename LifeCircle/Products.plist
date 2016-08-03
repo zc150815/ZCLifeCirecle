@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>iconName</key>
+		<string></string>
+		<key>groupName</key>
+		<string>美食</string>
+		<key>kindName</key>
+		<array>
+			<string>北京菜</string>
+			<string>自助餐</string>
+			<string>韩国料理</string>
+			<string>日本料理</string>
+			<string>西餐</string>
+			<string>粤菜</string>
+			<string>西北菜</string>
+		</array>
+	</dict>
+	<dict>
+		<key>iconName</key>
+		<string></string>
+		<key>groupName</key>
+		<string>休闲娱乐</string>
+		<key>kindName</key>
+		<array>
+			<string>KTV</string>
+			<string>足疗按摩</string>
+			<string>洗浴/汗蒸</string>
+			<string>迷失逃脱</string>
+			<string>酒吧</string>
+			<string>温泉</string>
+			<string>滑雪</string>
+		</array>
+	</dict>
+	<dict>
+		<key>iconName</key>
+		<string></string>
+		<key>groupName</key>
+		<string>电影</string>
+		<key>kindName</key>
+		<array>
+			<string>热映电影</string>
+			<string>电影团购</string>
+			<string>找电影院</string>
+		</array>
+	</dict>
+	<dict>
+		<key>iconName</key>
+		<string></string>
+		<key>groupName</key>
+		<string>酒店</string>
+		<key>kindName</key>
+		<array>
+			<string>经济型酒店</string>
+			<string>豪华酒店</string>
+			<string>度假酒店</string>
+			<string>温泉酒店</string>
+			<string>公寓式酒店</string>
+		</array>
+	</dict>
+	<dict>
+		<key>iconName</key>
+		<string></string>
+		<key>groupName</key>
+		<string>旅游</string>
+		<key>kindName</key>
+		<array>
+			<string>景点门票</string>
+			<string>当地/周边游</string>
+			<string>国内游</string>
+			<string>出境游</string>
+		</array>
+	</dict>
+	<dict>
+		<key>iconName</key>
+		<string></string>
+		<key>groupName</key>
+		<string>丽人</string>
+		<key>kindName</key>
+		<array>
+			<string>美发</string>
+			<string>美容/SPA</string>
+			<string>美甲美睫</string>
+			<string>瘦身纤体</string>
+			<string>个性写真</string>
+			<string>瑜伽/舞蹈</string>
+			<string>齿科</string>
+		</array>
+	</dict>
+	<dict>
+		<key>iconName</key>
+		<string></string>
+		<key>groupName</key>
+		<string>运动健身</string>
+		<key>kindName</key>
+		<array>
+			<string>健身</string>
+			<string>游泳</string>
+			<string>桌球</string>
+			<string>篮球</string>
+			<string>足球</string>
+			<string>羽毛球</string>
+			<string>乒乓球
+</string>
+		</array>
+	</dict>
+	<dict>
+		<key>iconName</key>
+		<string></string>
+		<key>groupName</key>
+		<string>生活服务</string>
+		<key>kindName</key>
+		<array>
+			<string>汽车服务
+</string>
+			<string>体检保健
+</string>
+			<string>家政服务
+</string>
+			<string>照片洗印
+</string>
+			<string>宠物服务
+</string>
+			<string>配眼镜
+</string>
+		</array>
+	</dict>
+	<dict>
+		<key>iconName</key>
+		<string></string>
+		<key>groupName</key>
+		<string>购物</string>
+		<key>kindName</key>
+		<array>
+			<string>钟表眼镜
+</string>
+			<string>食品饮料
+</string>
+			<string>水果生鲜
+</string>
+			<string>数码家电
+</string>
+			<string>珠宝饰品
+</string>
+			<string>服饰鞋包
+</string>
+			<string>生活家居
+</string>
+		</array>
+	</dict>
+</array>
+</plist>

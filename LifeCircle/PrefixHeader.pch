@@ -1,0 +1,31 @@
+//
+//  PrefixHeader.pch
+//  LifeCircle
+//
+//  Created by Ning Xie on 16/7/26.
+//  Copyright © 2016年 itcast. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <Masonry.h>
+
+#import <UIImageView+WebCache.h>
+
+#import "LSJScoreView.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
+#define textH 50
+
+#define blueBackColor [UIColor colorWithRed:62/255.0 green:167/255.0 blue:246/255.0 alpha:1.0]
+
+#define greyBackColor [UIColor colorWithRed:234/255.0 green:234/255.0 blue:234/255.0 alpha:1.0]
+
+//随机颜色
+#define RandomColor [UIColor colorWithRed:((float)arc4random_uniform(256) / 255.0) green:((float)arc4random_uniform(256) / 255.0) blue:((float)arc4random_uniform(256) / 255.0) alpha:1.0]
+
+

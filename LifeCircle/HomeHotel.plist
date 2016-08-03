@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>酒店1</string>
+		<key>name</key>
+		<string>阁峪农家院</string>
+		<key>describe</key>
+		<string>安静优雅,交通便利;免费早餐一份,免费WIFI.</string>
+		<key>btnText</key>
+		<string>距离2000米</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>酒店2</string>
+		<key>name</key>
+		<string>北医旅馆</string>
+		<key>describe</key>
+		<string>海淀区花园北路塔院情冬园2号楼.</string>
+		<key>btnText</key>
+		<string>距离1700米</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>酒店3</string>
+		<key>name</key>
+		<string>淼淼农家院</string>
+		<key>describe</key>
+		<string>怀柔区大水峪405号</string>
+		<key>btnText</key>
+		<string>距离4000米</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>酒店4</string>
+		<key>name</key>
+		<string>十渡驿站</string>
+		<key>describe</key>
+		<string>房山区十渡镇九渡村中心街15号</string>
+		<key>btnText</key>
+		<string>距离2200米</string>
+	</dict>
+</array>
+</plist>

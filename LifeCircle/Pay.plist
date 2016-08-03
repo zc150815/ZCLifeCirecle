@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>desLabel</key>
+		<string>推荐支付宝支付</string>
+		<key>title</key>
+		<string>支付宝支付</string>
+		<key>iconImg</key>
+		<string>支付宝</string>
+	</dict>
+	<dict>
+		<key>desLabel</key>
+		<string>推荐支付宝支付</string>
+		<key>title</key>
+		<string>微信支付</string>
+		<key>iconImg</key>
+		<string>微信</string>
+	</dict>
+	<dict>
+		<key>desLabel</key>
+		<string>推荐支付宝支付</string>
+		<key>title</key>
+		<string>银行卡支付</string>
+		<key>iconImg</key>
+		<string>金融圈</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ID</key>
+		<string>1</string>
+		<key>title</key>
+		<string>天气预报</string>
+		<key>cover</key>
+		<string>天气预报</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>2</string>
+		<key>title</key>
+		<string>手机充值</string>
+		<key>cover</key>
+		<string>手机充值</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>3</string>
+		<key>title</key>
+		<string>打车服务</string>
+		<key>cover</key>
+		<string>打车服务</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>4</string>
+		<key>title</key>
+		<string>租车服务</string>
+		<key>cover</key>
+		<string>租车服务</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>5</string>
+		<key>title</key>
+		<string>代约代驾</string>
+		<key>cover</key>
+		<string>代约代驾</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>6</string>
+		<key>title</key>
+		<string>水电费缴纳</string>
+		<key>cover</key>
+		<string>水电费缴纳</string>
+	</dict>
+</array>
+</plist>

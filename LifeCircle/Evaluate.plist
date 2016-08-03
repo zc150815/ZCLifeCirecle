@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>content</key>
+		<string>你好，我想带家人去青岛玩两三天，也是第一次去，没有经验，希望先咨询一下您，谢谢。</string>
+		<key>time</key>
+		<string>11-06    15:25</string>
+		<key>title</key>
+		<string>你喜欢青岛么？</string>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>为大家提供下青岛天气情况</string>
+		<key>time</key>
+		<string>11-06    15:25</string>
+		<key>title</key>
+		<string>青岛酒店推荐</string>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>青岛现在开始进入桑拿天，现在温度虽然不高，但湿度很大，有些闷，来青的外地朋友注意防暑啊。来青旅游私人订制，全程用车服务，全程空调，让您一路安全，清爽舒适。</string>
+		<key>time</key>
+		<string>11-06    15:25</string>
+		<key>title</key>
+		<string>海边都喜欢玩什么？</string>
+	</dict>
+</array>
+</plist>
